@@ -1,2 +1,2 @@
-# PRBS-via-MATLAB
+# PRBS Scilab
 Programa destinado a aplicação de um PRBS via Matlab utilizando a plataforma Open Source Arduino
